@@ -3,5 +3,6 @@
 ## Quick Start
 
 ```
-y
+yarn
+yarn start
 ```
