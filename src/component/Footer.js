@@ -17,7 +17,7 @@ class Footer extends React.Component {
 						<a href="#/completed">Completed</a>
 					</li>
 				</ul>
-				<button class="clear-completed">Clear completed</button>
+				<button className="clear-completed">Clear completed</button>
 			</footer>
         )
     }
